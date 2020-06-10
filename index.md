@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Mackenzie's Github Webpage</title>
-</head>
-<img src = "images/github_octocat.png" id = "octocat">
-<body>
-
 
   <h2>CIT Code Portfolio for Mackenzie Mcalister</h2>
 The University of Oregon's Computer Science Department offers a Computer Information Technology minor.
@@ -45,6 +34,3 @@ The CIT minor consists of six classes:
 <blockquote>
   <a href="https://pages.uoregon.edu/mmcalist/110/"> 110 Projects (uoregon.edu)</a>
 </blockquote>
-
-</body>
-</html>
