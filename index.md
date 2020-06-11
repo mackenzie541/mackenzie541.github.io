@@ -21,7 +21,7 @@ The CIT minor consists of six classes:
        <a href="https://mackenzie541.github.io/project-4/">Project 4</a>
        <a href="https://mackenzie541.github.io/project-5/">Project 5</a>
   </blockquote>
-</ol>
+
 
 5.  <b>CIS 111 Web Programming</a></b>. ES6, jQuery.
 
